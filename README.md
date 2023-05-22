@@ -6,11 +6,6 @@
 ## Praktika
 - [P02 App Design 1](P02_AppDesign1.md)
 
-## Team
-- Roger Wetter (wettero1)
-- Jan Ledergerber (lederjan)
-- Ramon Imper (impram01)
-
 ## Projektidee
 Das Spiel läuft in drei Phasen ab:
 - Setzphase: Die Spieler setzen abwechselnd je einen Stein, insgesamt je neun, auf Kreuzungs- oder Eckpunkte des Brettes
