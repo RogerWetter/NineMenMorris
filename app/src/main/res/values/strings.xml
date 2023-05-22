@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nine Men`s Morris</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="start_Game">Start Game</string>
+    <string name="previous">Previous</string>
+
+    <string name="name_black_pieces">Player Black</string>
+    <string name="name_black">Black</string>
+    <string name="name_white_pieces">Player White</string>
+    <string name="name_white">White</string>
+    <string name="black_piece_desc">Black Piece</string>
+    <string name="white_piece_desc">White Piece</string>
+    <string name="game_board_desc">Gameboard</string>
+    <string name="point_desc">Corner Point</string>
+
+
+    <string name="player_x_turn">%s`s turn (%s)</string>
+    <string name="win">%s Wins!</string>
+</resources>

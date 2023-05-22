@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#DBD1D0</color>
+    <color name="primary_fix">#DBD1D0</color>
+    <color name="secondary">#DF9843</color>
+    <color name="primary_inverted">#242E2F</color>
+    <color name="primary_inverted_fix">#242E2F</color>
+    <color name="secondary_inverted">#2067BC</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="stroke_color">#242E2F</color>
+    <color name="stroke_color_hint">#40242E2F</color>
+    <color name="text_color">#242E2F</color>
+    <color name="background">#FFFFFF</color>
+</resources>
